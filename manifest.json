@@ -1,0 +1,25 @@
+{
+  "name": "AI涨乐",
+  "short_name": "AI涨乐",
+  "description": "温暖陪伴型AI证券App移动端概念原型",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff4ec",
+  "theme_color": "#fff4ec",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
